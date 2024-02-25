@@ -1,0 +1,12 @@
+echo "10 5.00"` "10 7.00"` "V5"` 																								| python ProblemaC.py >> C_out.txt 2>&1
+echo "10 5.00"` "13 6.70"` "45 4.00"` "V56"` 																					| python ProblemaC.py >> C_out.txt 2>&1
+echo "50 2.00"` "12 3.00"` "20 2.70"` "200 1.00"` "30 4.00"` "V150"` 															| python ProblemaC.py >> C_out.txt 2>&1
+echo "50 2.00"` "500 3.00"` "20 2.70"` "200 2.40"` "880 1.00"` "1200 0.70"` "37 3.90"` "1 9.00"` "1 8.00"` "V678"` 				| python ProblemaC.py >> C_out.txt 2>&1
+echo "4000 2.00"` "500 3.00"` "20 2.70"` "200 2.40"` "880 1.00"` "1200 0.70"` "37 3.90"` "1 9.00"` "1 8.00"` "V678"` 			| python ProblemaC.py >> C_out.txt 2>&1
+echo "4000 2.00"` "500 3.00"` "20 2.70"` "200 2.40"` "880 1.00"` "1200 0.70"` "37 3.90"` "1 9.00"` "10000 8.00"` "V678"` 		| python ProblemaC.py >> C_out.txt 2>&1
+echo "4000 2.00"` "500 3.00"` "20 2.70"` "20000 0.50"` "880 1.00"` "1200 0.70"` "37 3.90"` "1 9.00"` "10000 8.00"` "V7000"` 	| python ProblemaC.py >> C_out.txt 2>&1
+echo "10 7.00"` "10 6.00"` "10 7.00"` "V15"` 																					| python ProblemaC.py >> C_out.txt 2>&1
+echo "10 7.00"` "V5"` 																											| python ProblemaC.py >> C_out.txt 2>&1
+echo "10 20.00"` "10 5.00"` "10 20.00"` "V1"` 																					| python ProblemaC.py >> C_out.txt 2>&1
+echo "10 20.00"` "10 5.00"` "10 20.00"` "V29"`																					| python ProblemaC.py >> C_out.txt 2>&1
+echo "10 20.00"` "10 5.00"` "10 20.00"` "V30"` 																					| python ProblemaC.py >> C_out.txt 2>&1

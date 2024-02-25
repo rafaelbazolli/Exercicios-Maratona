@@ -1,0 +1,22 @@
+echo "(AMR + LAR) + (AMR + AZL)" 	| python ProblemaB.py >> B_out.txt 2>&1
+echo "(RSA + BJE)" 					| python ProblemaB.py >> B_out.txt 2>&1
+echo "(AZL + VML) + (VML + AMR)" 	| python ProblemaB.py >> B_out.txt 2>&1
+echo "(VML + BRC)" 					| python ProblemaB.py >> B_out.txt 2>&1
+echo "(AMR + AZL) + (VML)" 			| python ProblemaB.py >> B_out.txt 2>&1
+echo "(VML) + (AMR + AZL)" 			| python ProblemaB.py >> B_out.txt 2>&1
+echo "(VRD + VRD)" 					| python ProblemaB.py >> B_out.txt 2>&1
+echo "(LAR)" 						| python ProblemaB.py >> B_out.txt 2>&1
+echo "(LAR) + (BRC)" 				| python ProblemaB.py >> B_out.txt 2>&1
+echo "(PRP)" 						| python ProblemaB.py >> B_out.txt 2>&1
+echo "(VML) + (VML + AZL)" 			| python ProblemaB.py >> B_out.txt 2>&1
+echo "(VML + VML)" 					| python ProblemaB.py >> B_out.txt 2>&1
+echo "(VML)" 						| python ProblemaB.py >> B_out.txt 2>&1
+echo "(VML) + (VML)" 				| python ProblemaB.py >> B_out.txt 2>&1
+echo "(VML) + (AZL)"				| python ProblemaB.py >> B_out.txt 2>&1
+echo "(LAR + AMR) + (VRD + AMR)" 	| python ProblemaB.py >> B_out.txt 2>&1
+echo "(PRT + BRC) + (BRC + PRT)" 	| python ProblemaB.py >> B_out.txt 2>&1
+echo "(LLS) + (LLS)" 				| python ProblemaB.py >> B_out.txt 2>&1
+echo "(BRC) + (LLS)" 				| python ProblemaB.py >> B_out.txt 2>&1
+echo "(AMR + VML) + (AZL)" 			| python ProblemaB.py >> B_out.txt 2>&1
+echo "(AMR + VML) + (LAR)" 			| python ProblemaB.py >> B_out.txt 2>&1
+echo "(AMR + VML) + (AMR)" 			| python ProblemaB.py >> B_out.txt 2>&1
