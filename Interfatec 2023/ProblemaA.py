@@ -11,6 +11,7 @@ for i in range(qtdLivros - 1):
 
 # Validando se algum estudante pegou livro mais de 5x
 repeticoes = [livros.count(livro) for livro in livros] # Conta quantas vezes cada livro foi movido
-estudanteDBPegou = any(frequencia > 5 for frequencia in repeticoes)
+estudantePegou = any(frequencia > 5 for frequencia in repeticoes)
 
-print('A Database Systems student read a book.' if (estudanteDBPegou) else contagem)
+print('A Database Systems student read a book.' if (estudantePegou) else contagem)
+
